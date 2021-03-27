@@ -1,2 +1,2 @@
 # cecs571-project2
-rdf to owl  
+csv to owl  
